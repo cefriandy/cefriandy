@@ -4,7 +4,7 @@
 
 <div style="text-align: justify;">
   <p style="float: right;">
-    <img align="right" alt="coding" width="460" height="420" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+    <img align="right" alt="coding" width="420" height="420" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
   </p>
 
   I'm Excalichoco aka Cef, a backend developer with a knack for mischief and coding shenanigans. Brace yourself for a glimpse into my not-so-serious world:
