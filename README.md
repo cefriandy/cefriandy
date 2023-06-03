@@ -2,11 +2,27 @@
 
 <h1 align="center">Backend Engineer</h1>
 
-# 💫 About Me:
+<div style="text-align: justify;">
+  <p style="float: right;">
+    <img align="right" alt="coding" width="460" height="420" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+  </p>
 
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+  I'm Excalichoco aka Cef, a backend developer with a knack for mischief and coding shenanigans. Brace yourself for a glimpse into my not-so-serious world:
 
-## Yo, what's up? 👋<br><br>I'm Excalichoco aka Cef, a backend developer with a knack for mischief and coding shenanigans. Brace yourself for a glimpse into my not-so-serious world:<br><br>- 💻 Backend development is where I try not to break everything. I mean, sometimes my code works!<br>- 🚀 I like to pretend I know what I'm doing by constantly googling and copy-pasting from Stack Overflow. Fake it till you make it, right?<br>- ⚙️ I make servers dance to my beat, playing with APIs, databases, cloud service. <br>- 🌟 Solving complex problems? nah! I just write a bunch of random code until it miraculously works. My idea of elegant code is when it runs without crashing... most of the time. <br>- 🌍 Open-source? Sure, I copy-paste from random GitHub repos and hope for the best. Sharing is caring, right?<br>- 🎮 When I'm not debugging my life away, I like to lose myself in video games, eg Dota 2.<br><br>Let's connect! If you find something remotely interesting in my repositories, please let me know, because I'm not entirely sure if any of it actually works.<br><br>Happy coding, and remember: it's all fun and games until your code crashes spectacularly! 😄🔥<br>
+  - 💻 Backend development is where I try not to break everything. I mean, sometimes my code works!
+  - 🚀 I like to pretend I know what I'm doing by constantly googling and copy-pasting from Stack Overflow. Fake it till you make it, right?
+  - ⚙️ I make servers dance to my beat, playing with APIs, databases, and cloud services.
+  - 🌟 Solving complex problems? Nah! I just write a bunch of random code until it miraculously works. My idea of elegant code is when it runs without crashing... most of the time.
+  - 🌍 Open-source? Sure, I copy-paste from random GitHub repos and hope for the best. Sharing is caring, right?
+  - 🎮 When I'm not debugging my life away, I like to lose myself in video games, e.g., Dota 2.
+
+  Let's connect! If you find something remotely interesting in my repositories, please let me know because I'm not entirely sure if any of it actually works.
+
+  Happy coding, and remember: it's all fun and games until your code crashes spectacularly! 😄🔥
+</div>
+
+
+
 
 
 ## 🌐 Socials:
