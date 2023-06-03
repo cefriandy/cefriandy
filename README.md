@@ -1,5 +1,9 @@
+![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 # 💫 About Me:
-## Yo, what's up? 👋<br><br>I'm Excalichoco aka Cef, a backend developer with a knack for mischief and coding shenanigans. Brace yourself for a glimpse into my not-so-serious world:<br><br>- 💻 Backend development is where I try not to break everything. I mean, sometimes my code works!<br>- 🚀 I like to pretend I know what I'm doing by constantly googling and copy-pasting from Stack Overflow. Fake it till you make it, right?<br>- ⚙️ I make servers dance to my beat, playing with APIs, databases, cloud service. <br>- 🌟 Solving complex problems? nah! I just write a bunch of random code until it miraculously works. My idea of elegant code is when it runs without crashing... most of the time.<br>- 🏡 Working from home means my pajamas are my official coding uniform, and my desk is an organized chaos of empty snack bags and coffee cups.<br>- ⭐️ I'm not just a developer, I'm a certified procrastinator too. <br>- 🌍 Open-source? Sure, I copy-paste from random GitHub repos and hope for the best. Sharing is caring, right?<br>- 🎮 When I'm not debugging my life away, I like to lose myself in video games, eg Dota 2.<br><br>Let's connect! If you find something remotely interesting in my repositories, please let me know, because I'm not entirely sure if any of it actually works.<br><br>Happy coding, and remember: it's all fun and games until your code crashes spectacularly! 😄🔥<br>
+
+<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+
+## Yo, what's up? 👋<br><br>I'm Excalichoco aka Cef, a backend developer with a knack for mischief and coding shenanigans. Brace yourself for a glimpse into my not-so-serious world:<br><br>- 💻 Backend development is where I try not to break everything. I mean, sometimes my code works!<br>- 🚀 I like to pretend I know what I'm doing by constantly googling and copy-pasting from Stack Overflow. Fake it till you make it, right?<br>- ⚙️ I make servers dance to my beat, playing with APIs, databases, cloud service. <br>- 🌟 Solving complex problems? nah! I just write a bunch of random code until it miraculously works. My idea of elegant code is when it runs without crashing... most of the time. <br>- 🌍 Open-source? Sure, I copy-paste from random GitHub repos and hope for the best. Sharing is caring, right?<br>- 🎮 When I'm not debugging my life away, I like to lose myself in video games, eg Dota 2.<br><br>Let's connect! If you find something remotely interesting in my repositories, please let me know, because I'm not entirely sure if any of it actually works.<br><br>Happy coding, and remember: it's all fun and games until your code crashes spectacularly! 😄🔥<br>
 
 
 ## 🌐 Socials:
@@ -14,9 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cefriandy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/cefriandy) 
